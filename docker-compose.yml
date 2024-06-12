@@ -1,0 +1,9 @@
+version: "3.8"
+
+services:
+  lambda:
+    build: .
+    volumes:
+      - .:/var/task
+    ports:
+      - "9000:8080"
