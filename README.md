@@ -1,4 +1,4 @@
-A demo version of online code judge (like LeetCode)—remote code execution in a docker container invoked by Lambda function.
+An online code judge platform (like leetcode). Remote code execution in a docker container invoked by Lambda function.
 
 ## Tech Stack
 
@@ -8,3 +8,6 @@ A demo version of online code judge (like LeetCode)—remote code execution in a
 | Code Editor  | Tes Cases Result |
 | ------------- | ------------- |
 | ![image](https://github.com/nikhil25803/code-judge/assets/93156825/9128a85f-7bf4-4950-a1f1-ecbe285b72c7) | ![image](https://github.com/nikhil25803/code-judge/assets/93156825/d4ad32e3-3a6d-4f25-ab34-f074f1a33344) |
+
+
+> Working on an end-to-end version of it!!
